@@ -26,7 +26,9 @@ https://github.com/umairdev1/e_learning_app/tree/master
 
 ## Trabajo terminado
 
-![image](https://github.com/OneDavidrdz131/UIIACT6-0543/assets/143547422/b012e0a4-9d53-47bd-b0b9-b0acd479c569)
-![image](https://github.com/OneDavidrdz131/UIIACT6-0543/assets/143547422/95e2d846-c2a3-4d68-b3a5-4c4c72a10ad2)
+![image](https://github.com/OneDavidrdz131/UIIACT6-0543/assets/143547422/640ef94c-c42e-4e09-8a9a-f5233a329765)
+
+![image](https://github.com/OneDavidrdz131/UIIACT6-0543/assets/143547422/c5db0eab-1443-4bb7-ab18-60cce74b5718)
+
 
 
